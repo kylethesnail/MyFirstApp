@@ -7,6 +7,9 @@ using namespace std;
 
 int main()
 {
+    cout << "Not hello world\n";
+
+
     int value = 2 + 4;
 
     cout << "Hello World!\n";
